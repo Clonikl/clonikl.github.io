@@ -1,4 +1,4 @@
-<img src="profile.png" alt="Profile" class="center">
+<center> <img src="profile.png" alt="Profile"> </center>
 <center> <b> <p style="font-size: 40px;"> Роланд Егор </p> </b> </center>
 <center> <p style="font-size: 30px;"> Системный администратор </p> </center>
 <center> <p style="font-size: 20px;"> Муж, общественник, фотограф. </p> </center>
