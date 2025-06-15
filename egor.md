@@ -1,9 +1,4 @@
 
-layout: page
-title: "Роланд Егор"
-permalink: /egor
-
-
 <center> <b> <p style="font-size: 40px;"> Роланд Егор </p> </b> </center>
 ## Системный администратор
 ### Муж, общественник, фотограф.
