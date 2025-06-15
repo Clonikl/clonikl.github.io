@@ -1,4 +1,4 @@
-![Profile](profile.jpg)
+![Profile](profile.png)
 <center> <b> <p style="font-size: 40px;"> Роланд Егор </p> </b> </center>
 <center> <p style="font-size: 30px;"> Системный администратор </p> </center>
 <center> <p style="font-size: 20px;"> Муж, общественник, фотограф. </p> </center>
