@@ -21,8 +21,8 @@
 title: Сайт про басичку
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
-  Это персональная страница очаровательной кошки Бася.
-  Она почти пенсионерка, но все так же очаровывает весь интернет своей миловидной натурой.
+	Это страница семейного сайта Пары Егора и Елизаветы Роланд. Сайт назван в честь кошки
+    Бася, которая живет с нами весь период наших отношений.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
