@@ -1,7 +1,7 @@
 
 <center> <b> <p style="font-size: 40px;"> Роланд Егор </p> </b> </center>
-<center> <p style="font-size: 35px;"> Системный администратор </p> </center>
-<center> <p style="font-size: 30px;"> Муж, общественник, фотограф. </p> </center>
+<center> <p style="font-size: 30px;"> Системный администратор </p> </center>
+<center> <p style="font-size: 20px;"> Муж, общественник, фотограф. </p> </center>
 ___Сделал такое классное резюме. Могу еще больше для вашей компаниии___
 
 ### Опыт работы:
