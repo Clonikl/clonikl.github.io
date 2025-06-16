@@ -20,7 +20,7 @@
 
 title: Басичка!
 email: 
-description: "Это страница семейного сайта пары Егора и Елизаветы Роланд. Сайт назван в честь кошки Бася, которая живет с Елиизаветой с детства, а теперь превращается в интернет знаменитость."
+description: "Семейный сайт Егора и Елизаветы"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://basichka.ru" # the base hostname & protocol for your site, e.g. http://example.com
 telegram_username: jekyllrb
