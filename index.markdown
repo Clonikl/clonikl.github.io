@@ -4,6 +4,8 @@
 
 layout: home
 ---
-<p class="center">Роланд Егор</p>
-<p class="center">23 y.o, full stack IT support specialist</p>
-<p class="center"></p>	
+![placeholder](https://upload.wikimedia.org/wikipedia/commons/f/f5/Example_image.jpg){:.centered}
+<p class="center-text">Роланд Егор</p>
+<p class="center-text">23 y.o, full stack IT support specialist</p>
+<p class="center-text">vk</p>
+<p class="center-text">telegram</p>
