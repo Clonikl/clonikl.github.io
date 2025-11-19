@@ -23,7 +23,7 @@ permalink: /wishlist/
 ### Переходники, расходники
 **Цифровой переходник с Canon EF на Sony E** - например, 7artisans EF-SE или Sigma MC-11. *Ищите б\у и на маркетплейсах. www.avito.ru www.farpost.ru www.ozon.ru*
 
-**Фотопленка формата 135мм.** - главное, не просрочка. *Ищите на барахолках, маркетплейсах и в профильных магазинах. www.avito.ru www.farpost.ru www.ozon.ru www.sreda.shop www.pola.store*
+**Фотопленка формата 135мм.** - главное, не просрочка. *Ищите на барахолках, маркетплейсах и в профильных магазинах. www.avito.ru www.farpost.ru www.ozon.ru www.sreda.photo www.pola-store.ru*
 ## Компьютеры, игры
 **Nintendo Switch** первых ревизий под взлом. *Ищите б\у. www.avito.ru www.farpost.ru А еще есть на Лугаше :)*
 
@@ -47,4 +47,5 @@ permalink: /wishlist/
 [как проверить бу цифровую камеру]:https://www.fotosklad.ru/expert/articles/kak-vybrat-i-proverit-bu-fotoapparat-pered-pokupkoj/
 [как проверить бу пленочную камеру]:https://www.reddit.com/r/AnalogCommunity/comments/1ijvwa5/how_to_identify_if_a_film_camera_is_functional/?tl=ru
 [Хороший ресурс по eGPU]:https://egpu.io/
+
 
