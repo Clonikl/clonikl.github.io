@@ -5,7 +5,6 @@
 layout: home
 ---
 <center><img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Example_image.jpg" Egor></center>
-<center>Роланд Егор</center>
-<center>23 y.o, full stack IT support specialist</center>
-<p class="center-text">vk</p>
-<p class="center-text">telegram</p>
+# <center>Роланд Егор</center>
+# <center>23 y.o, full stack IT support specialist</center>
+
