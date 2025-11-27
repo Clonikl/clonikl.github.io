@@ -29,7 +29,7 @@ permalink: /wishlist/
 ## Компьютеры, игры
 **Nintendo Switch** первых ревизий под взлом. *Ищите б\у. www.avito.ru www.farpost.ru А еще есть на Лугаше :)*
 
-**eGPU и видеокарта нвида от 30 серии**, тогда появится возможность играть с женой. И снизится вероятность развода. *Дорого. Барахолки, маркетплейсы, днс. www.avito.ru www.farpost.ru www.ozon.ru [Хороший ресурс по eGPU]*
+**Split клавиатура** - Лучший тип клавиатур в целом. Можно  DIY кит, можно готовую. *Кит версия от 3000р, готовая от 5000р. Барахолки, маркетплейсы. www.avito.ru www.farpost.ru www.ozon.ru*
 ## Атрибутика по любимым фд
 **hatsune miku** - Вообще все что угодно. Манга, фигурки, комиксы, аксессуары. *Шнурки всякие, Wacko и убежища. тут полет фантазии*
 
@@ -50,7 +50,7 @@ permalink: /wishlist/
 [как выбрать бу объектив]:https://evtifeev.com/3366-vybor-obektiva-b-u-byvshego-v-upotreblenii.html
 [как проверить бу цифровую камеру]:https://www.fotosklad.ru/expert/articles/kak-vybrat-i-proverit-bu-fotoapparat-pered-pokupkoj/
 [как проверить бу пленочную камеру]:https://www.reddit.com/r/AnalogCommunity/comments/1ijvwa5/how_to_identify_if_a_film_camera_is_functional/?tl=ru
-[Хороший ресурс по eGPU]:https://egpu.io/
+
 
 
 
